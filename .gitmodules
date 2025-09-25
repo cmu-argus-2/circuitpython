@@ -16,7 +16,7 @@
 	url = https://github.com/Microsoft/uf2.git
 [submodule "atmel-samd/frozen/Adafruit_CircuitPython_NeoPixel"]
 	path = frozen/Adafruit_CircuitPython_NeoPixel
-	url = https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel
+	url = https://github.com/cmu-argus-2/CircuitPython_NeoPixel
 [submodule "frozen/Adafruit_CircuitPython_Thermistor"]
 	path = frozen/Adafruit_CircuitPython_Thermistor
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Thermistor.git
@@ -94,7 +94,7 @@
 	url = https://github.com/sonydevworld/spresense-exported-sdk.git
 [submodule "frozen/Adafruit_CircuitPython_SD"]
 	path = frozen/Adafruit_CircuitPython_SD
-	url = https://github.com/adafruit/Adafruit_CircuitPython_SD.git
+	url = https://github.com/cmu-argus-2/CircuitPython_SD.git
 [submodule "lib/mp3"]
 	path = lib/mp3
 	url = https://github.com/adafruit/Adafruit_MP3
